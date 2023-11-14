@@ -3,10 +3,14 @@ This Java program implements a hash table with open addressing using linear prob
 ## Usage
 ### Compilation
 Compile the program using the following command in your terminal or command prompt:
+
 javac HW4_rci11
+
 ### Execution
 Run the compiled program using the following command:
+
 java HW4_rci11
+
 This will execute the main method in the 'HW4_rci11' class, showcasing the steps of linear probing and double hashing, as well as printing the final hash tables.
 ## Important Notes
 * Ensure you have Java installed on your machine.
